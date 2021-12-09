@@ -23,5 +23,5 @@ while true {
     }
 }
 print("\nThe Stack: ")
-aStack.ShowStack()
+aStack.showStack()
 print("\nDone.")
